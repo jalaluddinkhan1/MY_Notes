@@ -1,0 +1,11 @@
+1st porcess - gather the data   (type of data --> numberical, categorical data)
+I ->>> {get data } via- API
+   - Dataset
+   - Webscraping
+   - SQL
+II ->>{clean data} 
+
+III--> collect sample from population
+  and check biest
+  HYphothicees testiog
+  etc
