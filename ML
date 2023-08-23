@@ -1,9 +1,13 @@
 1st porcess - gather the data   (type of data --> numberical, categorical data)
-I ->>> {get data } via- API
+I ->>> {get data } via
+   - API
    - Dataset
    - Webscraping
    - SQL
-II ->>{clean data} 
+II ->>{data cleaning}
+  --> clean un wanted data (check if there is any unwanted data is present or not, drop missing data, fill value)
+--> fill missing value
+--> find and remove outliers
 
 III--> collect sample from population
   and check biest
